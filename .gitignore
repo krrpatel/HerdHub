@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg
+*.egg-info
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+
+# Data folders
+train/
+valid/
+test/
+*.csv
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
