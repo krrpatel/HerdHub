@@ -18,9 +18,6 @@ ENV/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# PyTorch
-*.pth
-*.pt
 
 # Data folders
 train/
