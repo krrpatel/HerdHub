@@ -49,14 +49,14 @@ HerdHub is a complete digital solution designed specifically for dairy farmers. 
 - Compare performance between different animals
 - Track quality and identify top performers
 
-### 📊 **Farm Dashboard**
+### 📊 **Farm Dashboard (Soon)**
 
 - Beautiful charts showing your farm’s performance
 - Easy-to-understand statistics and reports
 - Monitor trends over time
 - Make better decisions with data insights
 
-### 🔔 **Smart Notifications**
+### 🔔 **Smart Notifications (Soon)**
 
 - Get alerts when animals need attention
 - Reminders for feeding schedules and vaccinations
@@ -65,7 +65,7 @@ HerdHub is a complete digital solution designed specifically for dairy farmers. 
 
 ### 📱 **Works Everywhere**
 
-- Use on your phone, tablet, or computer
+- Use on your phone, tablet.
 - Works even with slow internet connections
 - All your data syncs automatically
 - Access your farm information anytime, anywhere
@@ -76,7 +76,7 @@ HerdHub is a complete digital solution designed specifically for dairy farmers. 
 
 ### **Core Technologies**
 
-- **Frontend**: Modern web and mobile app technology
+- **Frontend**: Modern mobile app technology
 - **AI/ML Service**: Python Flask (for disease predictions)
 - **Database**: Firebase Realtime Database
 - **Authentication**: Firebase secure login system
@@ -172,5 +172,5 @@ HerdHub is a complete digital solution designed specifically for dairy farmers. 
 
 - **User Manual**: Complete guide for all features
 - **Video Tutorials**: Step-by-step video instructions
-- **Government Support**: Friendly help when you need it
+- **Government Support**: Government help when you need it
 - **Training**: We can help you get started
